@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @devgo-paulo
 - 👀 I’m interested in software engineering practices and methodologies
-- 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me ... paulo.silva@devgo.org
 
 <!---
